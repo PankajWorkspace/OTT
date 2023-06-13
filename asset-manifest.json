@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/PankajWorkspace/OTT.git/static/css/main.d45c8250.css",
+    "main.js": "/PankajWorkspace/OTT.git/static/js/main.f972185a.js",
+    "static/js/787.100c2785.chunk.js": "/PankajWorkspace/OTT.git/static/js/787.100c2785.chunk.js",
+    "static/media/smart.svg": "/PankajWorkspace/OTT.git/static/media/smart.15c0b52292c10f2bc9dc.svg",
+    "static/media/logo.svg": "/PankajWorkspace/OTT.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/kids.svg": "/PankajWorkspace/OTT.git/static/media/kids.29ee3dbc8103ad2158ff.svg",
+    "index.html": "/PankajWorkspace/OTT.git/index.html",
+    "main.d45c8250.css.map": "/PankajWorkspace/OTT.git/static/css/main.d45c8250.css.map",
+    "main.f972185a.js.map": "/PankajWorkspace/OTT.git/static/js/main.f972185a.js.map",
+    "787.100c2785.chunk.js.map": "/PankajWorkspace/OTT.git/static/js/787.100c2785.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d45c8250.css",
+    "static/js/main.f972185a.js"
+  ]
+}
